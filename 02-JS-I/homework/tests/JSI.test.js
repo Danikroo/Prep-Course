@@ -295,8 +295,3 @@ describe('esVocal(letra)', function() {
     expect(esVocal('u')).toBe('Es vocal');
   });
 });
-
-//TEXTO PRUEBA
-
-Var: Hola 
-Hola : 1 + 1 
